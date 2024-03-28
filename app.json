@@ -10,15 +10,15 @@
 	],
 	"repository": "https://github.com/Source-Ze/temp",
     "env": {
-        "TG_BOT_TOKEN": {
+        "7098490366:AAHFbT4QYWX-rcZQo9z0eXJY1MyDCznF1TQ": {
             "description": "Your Telegram Bot Token from @kbjlddebot",
             "value": ""
         },
-        "API_HASH": {
+        "f40dbe709ac3d5b8a18aed1edb9b0d04": {
             "description": "Your API Hash from my.telegram.org",
             "value": ""
         },
-        "APP_ID": {
+        "25535561": {
             "description": "Your APP ID from my.telegram.org",
             "value": ""
 	   }
