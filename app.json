@@ -11,7 +11,7 @@
 	"repository": "https://github.com/Source-Ze/temp",
     "env": {
         "TG_BOT_TOKEN": {
-            "description": "Your Telegram Bot Token from @BotFather",
+            "description": "Your Telegram Bot Token from @kbjlddebot",
             "value": ""
         },
         "API_HASH": {
